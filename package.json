@@ -2,7 +2,7 @@
   "name": "romantic-website",
   "version": "1.0.0",
   "description": "A romantic React website with beautiful animations",
-  "homepage": "https://CodingAlgorithmAlchemist.github.io/romantic-proposal-website",
+  "homepage": "https://codingalgorithmalchemist.github.io/romatic-proposal-website",
   "private": true,
   "scripts": {
     "start": "react-scripts start",
