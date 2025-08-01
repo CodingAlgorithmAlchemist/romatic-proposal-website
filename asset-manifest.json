@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/romantic-proposal-website/static/css/main.96c0e45e.css",
+    "main.js": "/romantic-proposal-website/static/js/main.db52e348.js",
+    "index.html": "/romantic-proposal-website/index.html",
+    "main.96c0e45e.css.map": "/romantic-proposal-website/static/css/main.96c0e45e.css.map",
+    "main.db52e348.js.map": "/romantic-proposal-website/static/js/main.db52e348.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96c0e45e.css",
+    "static/js/main.db52e348.js"
+  ]
+}
